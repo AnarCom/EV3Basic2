@@ -39,3 +39,11 @@ C:\Users\Дом\Documents\GitHub\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.c
 C:\Users\Дом\Documents\GitHub\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.dll
 C:\Users\Дом\Documents\GitHub\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.pdb
 C:\Users\Дом\Documents\GitHub\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.csprojAssemblyReference.cache
+C:\Users\AnarCom\Desktop\EV3Basic2\LMSAssembler\bin\Debug\LMSAssembler.dll
+C:\Users\AnarCom\Desktop\EV3Basic2\LMSAssembler\bin\Debug\LMSAssembler.pdb
+C:\Users\AnarCom\Desktop\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.csprojAssemblyReference.cache
+C:\Users\AnarCom\Desktop\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.Properties.Resources.resources
+C:\Users\AnarCom\Desktop\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.csproj.GenerateResource.cache
+C:\Users\AnarCom\Desktop\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.csproj.CoreCompileInputs.cache
+C:\Users\AnarCom\Desktop\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.dll
+C:\Users\AnarCom\Desktop\EV3Basic2\LMSAssembler\obj\Debug\LMSAssembler.pdb

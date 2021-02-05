@@ -76,3 +76,17 @@ C:\Users\Дом\Documents\GitHub\EV3Basic2\EV3Communication\obj\Debug\EV3Communi
 C:\Users\Дом\Documents\GitHub\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.dll
 C:\Users\Дом\Documents\GitHub\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.pdb
 C:\Users\Дом\Documents\GitHub\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.csprojAssemblyReference.cache
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\bin\Debug\EV3Communication.dll
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\bin\Debug\EV3Communication.pdb
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.csprojAssemblyReference.cache
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\IPAddressDialog.baml
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\ConnectionTypeDialog.baml
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\IPAddressDialog.g.cs
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\ConnectionTypeDialog.g.cs
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\EV3Communication_MarkupCompile.cache
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.g.resources
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.Properties.Resources.resources
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.csproj.GenerateResource.cache
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.csproj.CoreCompileInputs.cache
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.dll
+C:\Users\AnarCom\Desktop\EV3Basic2\EV3Communication\obj\Debug\EV3Communication.pdb
